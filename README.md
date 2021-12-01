@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avadro112
 - 👀 I’m new one making way through 
-- 🌱 I’m in love with a machine and love to talk with it
+- 🌱 I’m in love with a machine and used to gossip with
 - 💞️ Naive on Git
 - 📫 Curious
 
