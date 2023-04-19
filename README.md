@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avadro112
-- 👀 I’m new one making way through 
-- 🌱 I’m in love with a machine and used to gossip with
-- 💞️ Naive on Git
+- 👀 Machine Learning Collaborator
+- 🌱 Natural
+- 💞️ Active On Python, Worked On C/C++/SQL/MONGODB
 - 📫 Curious
 
 <!---
