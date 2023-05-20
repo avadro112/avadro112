@@ -30,7 +30,7 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-<!-- <p align="left"> <a href="https://twitter.com/mdahsanrazakhan" target="blank"><img src="https://img.shields.io/twitter/follow/mdahsanrazakhan?logo=twitter&style=for-the-badge" alt="mdahsanrazakhan" /></a> </p> -->
+
 
 - 🔭 I’m currently working on **Tensorflow-v2 PyTorch Keras OpenCV SciKit Learn**
 
@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **jkanant@gmail.com**
 
-<!-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="35" height="40"/> </a> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png?20200317115153" alt="keras" width="40" height="40"/> </a> <a href="https://www.python.org/ target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&usqp=CAU" alt="sass" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" width="40" height="40"/> </a> </p>
